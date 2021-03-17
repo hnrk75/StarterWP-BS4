@@ -1,7 +1,7 @@
 /*--------------------------------------------------------------
 # Default Bootstrap Colors
 --------------------------------------------------------------*/
-$white:  #fff !default;
+$white:    #ffffff !default;
 $gray-100: #f8f9fa !default;
 $gray-200: #e9ecef !default;
 $gray-300: #dee2e6 !default;
@@ -11,7 +11,7 @@ $gray-600: #868e96 !default;
 $gray-700: #495057 !default;
 $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
-$black:  #000 !default;
+$black:    #000000 !default;
 
 $grays: (
   100: $gray-100,
@@ -52,9 +52,29 @@ $colors: (
   gray-dark: $gray-800
 ) !default;
 
-$custom: #1abc9c;
-$footer-bg: #2f2f2f;
+/*--------------------------------------------------------------
+# Social Colors
+--------------------------------------------------------------*/
+$facebook:    #4267B2;
+$instagram:   #C13584;
+$mixcloud:    #52AAD8;
+$soundcloud:  #FE5000;
+$spotify:     #1DB954;
+$youtube:     #FF0000;
 
-$theme-colors: (
-  primary: $custom
-);
+/*--------------------------------------------------------------
+# Theme Colors
+--------------------------------------------------------------*/
+$custom-1:    #E1C265;
+$custom-2:    #F6F6F6;
+$custom-3:    #212529;
+$custom-4:    #F6F6F6;
+$custom-5:    #212529;
+
+$body-bg:     $white;
+$body-color:  $custom-3;
+
+$link-color:            $custom-1 !default;
+$link-decoration:       none !default;
+$link-hover-color:      $custom-2 !default;
+$link-hover-decoration: none !default;
