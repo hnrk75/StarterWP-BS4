@@ -1,28 +1,23 @@
-=== StarterWP ===
+StarterWP - Bootstrap 4 WordPress Starter Theme
+===
 
-Contributors: HNRK Agency
-Tags: 
+StarterWP is _s with Bootstrap 4. 
 
-Requires at least: 4.0
-Tested up to: 5.7
-Stable tag: 1.0.0
-License: GNU General Public License v2 or later
-License URI: LICENSE
+Here are some of the other more interesting things you'll find within this theme:
 
-A Bootstrap 4 starter theme called StarterWP.
+* A just right amount of lean, well-commented, modern, HTML5 templates.
+* A helpful 404 template.
+* A custom Walker menu class to implement the Bootstrap 4 navbar
+* Custom template tags in `inc/template-tags.php` that keep your templates clean and neat and prevent code duplication.
+* Some small tweaks in `inc/extras.php` that can improve your theming experience.
+* Gulp tasks to speed up development.
+* Manifest.js to complile and minify all your JS scripts.
+* Organized Sass files that include Bootstrap 4 and Font Awesome.
+* Licensed under GPLv2 or later. :) Use it to make something cool.
 
-== Description ==
+Getting Started
+---------------
 
-Hi. I'm a starter theme called StarterWP and include Bootstrap 4, Bootstrap Icons and Fontawesome.
-
-== Installation ==
-
-1. In your admin panel, go to Appearance > Themes and click the Add New button.
-2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
-3. Click Activate to use your new theme right away.
-
-== Credits ==
-
-* Bootstrap 4
-* Botstrap Icons
-* Fontawesome
+You can use StarterWP as a starter theme for a WordPress theme you are building or simply use the theme as is. 
+# StarterWP
+# StarterWP-BS4
