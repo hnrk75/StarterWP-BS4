@@ -13,7 +13,7 @@ A Bootstrap 4 starter theme called StarterWP.
 
 == Description ==
 
-Hi. I'm a starter theme called StarterWP. I'm based off of _s and include Bootstrap 4 and Bootstrap Icons.
+Hi. I'm a starter theme called StarterWP and include Bootstrap 4, Bootstrap Icons and Fontawesome.
 
 == Installation ==
 
